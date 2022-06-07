@@ -1,16 +1,16 @@
-### Hi there 👋
+#### 👋 Hi Um... I'm just an ordinary developer !! Welcome to my repository !!
 
-<!--
-**DevHwangIT/DevHwangIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📚 Study 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=CSharp&logoColor=white"/>
+
+
+### 🧰 Tools 🧰
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=UnrealEngine&logoColor=white"/>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHwangIT)](https://github.com/DevHwangIT/github-readme-stats)
