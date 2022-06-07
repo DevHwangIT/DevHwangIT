@@ -1,10 +1,13 @@
+
 <div align="center">
 <h3> Hi.. I'm Jack Hwang..</h3>
 <h3> Um... I'm just an ordinary Game Developer !! Welcome to my repository !!</h3>
 </div>
 
-<h4 align="center"> 📚 Study Tools with Language</h4> 
 ---
+
+<h3 align="center"> 🛠️ Tools & Language</h3> 
+
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>　 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>　 
