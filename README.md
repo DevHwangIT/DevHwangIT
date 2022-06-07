@@ -24,8 +24,8 @@
 
 ### 💻 Work History
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevHwangIT&show_icons=true&theme=highcontrast" width="400" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHwangIT" width="400" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevHwangIT&show_icons=true&theme=highcontrast" width="400" height="200"/>　 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHwangIT" width="400" height="200"/>
 
   
 </p>
