@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=000000&height=200&text=Hi!&nbsp;&nbsp;I'm&nbsp;&nbsp;Jack&nbsp;Hwang&fontAlign=50&fontColor=FFFFFF)<br>
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=Rect&color=000000&height=200&text=Hi!&nbsp;&nbsp;I'm&nbsp;&nbsp;Jack&nbsp;Hwang&fontAlign=50&fontColor=FFFFFF)<br>
 <h3> Um... I'm just an ordinary Game Developer !! Welcome to my repository !!</h3>
 </div>
 
