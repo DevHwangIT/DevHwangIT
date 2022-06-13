@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&text=Hi!&nbsp;&nbsp;I'm%20Jack&nbsp;Hwang&fontAlign=50&fontColor=FFFFFF&fontro)<br>
-<div align="center">
 <h3> Um... I'm just an ordinary Game Developer !! Welcome to my repository !!</h3>
 </div>
 
@@ -25,6 +23,3 @@
 </div>
 
 ---
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer)
