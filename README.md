@@ -1,9 +1,9 @@
-<h3 align="center"> Um... I'm just an ordinary Game Developer !! Welcome to my repository !!</h3>
+<h3 align="center"> 🎮 Um... I'm just an ordinary Game Developer !! Welcome to my repository !!</h3>
 </div>
 
 ---
 
-<h3 align="center"> 🛠️ Tools & Language</h3> 
+<h3 align="center"> 📚 Study Tools & Language</h3> 
 
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>　 
@@ -23,3 +23,8 @@
 </div>
 
 ---
+
+<h3 align="center"> 💂 전문 연구 요원</h3>
+<div align="center">
+  <h3> 😭 2021/12/29 ~ 2024/12/28 ( ~ing ) 😭 </h3>
+</div>
