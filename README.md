@@ -21,10 +21,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DevHwangIT&show_icons=true&theme=highcontrast" width="50%" height="50%"/>　 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHwangIT" width="21%" height="50%"/>
 </div>
-
----
-
-<h3 align="center"> 💂 전문 연구 요원</h3>
-<div align="center">
-  <h3> 😭 2021/12/29 ~ 2024/12/28 ( ~ing ) 😭 </h3>
-</div>
