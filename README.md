@@ -1,4 +1,4 @@
-<h3 align="center"> 🎮 Um... I'm just an ordinary Game Developer !! Welcome to my repository !!</h3>
+<h3 align="center"> 🎮 Um... I'm just an ordinary Developer !! Welcome to my repository !!</h3>
 </div>
 
 ---
